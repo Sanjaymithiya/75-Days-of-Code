@@ -1,0 +1,8 @@
+# 75 Days of Code Challenge
+This repository contains my journey of solving one coding problem every day for 75 days.
+Each day has its own folder with:
+- README.md (problem name + short description + intuition/approach/complexity)
+- Java file (actual solution code)
+
+# Day 1 - Completed
+- Reverse LinkedList
