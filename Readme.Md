@@ -6,3 +6,12 @@ Each day has its own folder with:
 
 # Day 1 - Completed
 - Reverse LinkedList
+
+# Day 2 - Completed
+- Container with maximum water
+
+# Day 3 - Completed
+- Remove stars from String
+
+# Day 4 - Completed
+- Kids with most number of Candies.
