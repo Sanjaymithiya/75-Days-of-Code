@@ -15,3 +15,6 @@ Each day has its own folder with:
 
 # Day 4 - Completed
 - Kids with most number of Candies.
+
+# Day 5 - Completed
+- Reverse vowels in a String.
