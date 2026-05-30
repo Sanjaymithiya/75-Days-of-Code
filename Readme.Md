@@ -18,3 +18,6 @@ Each day has its own folder with:
 
 # Day 5 - Completed
 - Reverse vowels in a String.
+
+# Day 6 - Completed
+- String Compression
