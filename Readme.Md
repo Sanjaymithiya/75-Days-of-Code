@@ -21,3 +21,6 @@ Each day has its own folder with:
 
 # Day 6 - Completed
 - String Compression
+
+# Day 7 - Completed
+- Max Numbers of sum in an array for k pairs.
